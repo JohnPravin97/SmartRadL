@@ -9,7 +9,7 @@
 
 ## Feature Labels
 - Stop 
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/tree/main/Vaihingen_Dataset/Img/Stop.JPG)    
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)    
 - Asphalt_Ride 
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/tree/main/Vaihingen_Dataset/Img/Asphalt_Ride.JPG)                           
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Ride.JPG)                           
 - Cobblestone_Ride
