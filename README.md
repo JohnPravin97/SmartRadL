@@ -10,10 +10,7 @@
 
 ## Feature Labels
 
-|- Stop                                                                                                                     | - Asphalt Ride
-|![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)        | ![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Ride.JPG) 
-|       
-|
+- Stop                                                                                                                 
 
 ![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)    
 
@@ -36,3 +33,14 @@
 - Asphalt Bump
 
 ![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Bump.JPG)
+
+## Feature Maps
+
+In this project, we have collected the above-mentioned features from two locations namely Vaihingen and Stuttgart, Germany. To illustrate the data collection from these locations, here we have created a data visualization map (link). Also in the below picture, each feature label count is illustrated. 
+
+- Vaihingen Campus Map:
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Vaihingen_Campus_Map.JPG) 
+
+- Stuttgart City Center Map:
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stuttgart_City_Center_Map.JPG) 
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stuttgart_City_Center_Distance_Map.JPG) 
