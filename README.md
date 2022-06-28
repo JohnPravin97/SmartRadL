@@ -56,6 +56,19 @@ In order to train a machine learning algorithm to classify the different pavemen
 - Thirdly, we have used fourier series on the time windows to convert into frequency domain. From these frequency domain values, we have extraced total of 14 features namely FFT mean, FFT standard deviation, FFT average absolute difference, FFT minimum value, FFT maximum value, FFT maximum-minimum difference, FFT median, FFT median absolute deviation, FFT interquartile range, FFT values above mean, FFT number of peaks, FFT skewness, FFT kurtosis, FFT energy resulting in 42 feature columns. Along with these 42 feature columns, we have considered overall FFT average resultant and overall FFT signal magnitude area. So, in short total of 44 features are extracted from the acceleration signal.
 - Overall, a total of 102 feature columns are extracted and provided to the machine learning model. 
 
-## Machine Learning Model
+## Machine Learning Model Results
+
+For this project, we have taken 4 [machine learning models](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Machine%20Learning/) to classify the objectives namely Logistic Regression, Support Vector Machine, Decision Tree Classifier and Neural Network. The feature labels statistics after the data analysis are displayed along with the train accuracy and F1_score of the machine learning models below. 
+
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Feacture_labels_stat_DA.JPG)
+
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Machine_Learning_Models_Results.JPG)
+
+
+
+
+
+
+
 
 
