@@ -1,4 +1,5 @@
 # SmartRadL
+SmartRadL is a project which helps in understanding the different pavements and obstacles in those pavements by training the machine learning models on the data collected from the physics toolbox suite by riding on different locations. 
 
 ## Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
