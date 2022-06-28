@@ -1,5 +1,14 @@
 # SmartRadL
 
+## Table of Contents
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Objective](#Objective)
+- [Hardware](#Hardware)
+
+
 ## Objective
 
 <p style = "font-family: Times New Roman"> <p style="font-size:110%;"> Nowadays many people prefer to choose their bike as a mode of commutation to their office, university, etc. Although there are numerous improvements done towards the pathway for the bikes, still bikers are facing difficulties commutating in their bikes due to the road surface conditions. Also, not knowing the road surface of their planned routes makes it difficult to choose the suitable bikes for their commutation. In this project, we tried to monitor the conditions of the road surface by using machine learning algorithms to classify different pavements of the road like asphalt or cobblestone as well as obstacles found on different pavements of the road like manhole/potholes, kerbs, and speed bumps using the data obtained from the Physics Toolbox Suite Pro App by mounting the mobile phone onto the bike.</p> </p>
