@@ -56,13 +56,13 @@ In order to train a machine learning algorithm to classify the different pavemen
 - First of all, we have [Combined the Datasets](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Combine%20the%20Datasets/) collected from two locations along with cleaning up the values with zero entities.
 - Secondly, we have done [Data Analysis](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Data%20Analysis/) on the data. we have divided acceleration signals into time windows to reduce the 100 Hz to 20 Hz. From the time windows applied, we have extraced total of 16 features from three channels namely mean, standard deviation, average absolute difference, minimum value, maximum value, maximum-minimum difference, median, median absolute deviation, interquartile range, negative count, positive count, values above mean, number of peaks, skewness, kurtosis, energy resulting in 48 feature columns. Along with these 48 feature columns, we have considered overall average resultant and overall signal magnitude area. So, in short total of 50 features are extracted from the acceleration signal using the time windows. 
 - Thirdly, we have used fourier series on the time windows to convert into frequency domain. From these frequency domain values, we have extraced total of 14 features namely FFT mean, FFT standard deviation, FFT average absolute difference, FFT minimum value, FFT maximum value, FFT maximum-minimum difference, FFT median, FFT median absolute deviation, FFT interquartile range, FFT values above mean, FFT number of peaks, FFT skewness, FFT kurtosis, FFT energy resulting in 42 feature columns. Along with these 42 feature columns, we have considered overall FFT average resultant and overall FFT signal magnitude area. So, in short total of 44 features are extracted from the acceleration signal.
-- Overall, a total of 102 feature columns are extracted and provided to the machine learning model. 
+- Overall, a total of 102 feature columns are extracted and provided to the machine learning model. Also, the feature label statistics after the data analysis are displayed below. 
+
+![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Feacture_labels_stat_DA.JPG)
 
 ## Machine Learning Model Results
 
-For this project, we have taken four [machine learning models](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Machine%20Learning/) to classify the objectives namely Logistic Regression, Support Vector Machine, Decision Tree Classifier and Neural Network. The feature labels statistics after the data analysis are displayed along with the train accuracy and F1_score of the machine learning models below. 
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Feacture_labels_stat_DA.JPG)
+For this project, we have taken four [machine learning models](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Machine%20Learning/) to classify the objectives namely Logistic Regression, Support Vector Machine, Decision Tree Classifier and Neural Network. The train accuracy and F1_score of the machine learning models are displayed below. 
 
 ![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Machine_Learning_Models_Results.JPG)
 
