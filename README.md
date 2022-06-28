@@ -23,6 +23,13 @@
 
 ## Feature Labels
 
+
+Stop              |  Asphalt Ride
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)  |  ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Ride.JPG)
+
+
+
 - Stop                                                                                                                 
 
 ![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)    
