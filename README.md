@@ -36,30 +36,6 @@ Asphalt Kerb              |  Asphalt Bump
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Kerb.JPG)  |  ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Bump.JPG)
 
-- Stop                                                                                                                 
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)    
-
-- Asphalt Ride 
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Ride.JPG)                     
-
-- Cobblestone Ride
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Cobblestone_Ride.JPG)
-
-- Asphalt Manhole 
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Manhole.JPG)
-
-- Asphalt Kerb 
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Kerb.JPG)
-
-- Asphalt Bump
-
-![Example Data Table](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Bump.JPG)
-
 ## Feature Maps
 
 In this project, we have collected the above-mentioned features from two locations namely Vaihingen and Stuttgart, Germany. To illustrate the data collection from these locations, here we have created [Visualization of maps](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Visualization%20of%20maps/) program which provides information about the features location and statistics.
