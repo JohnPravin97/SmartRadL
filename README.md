@@ -7,7 +7,11 @@
 
 - [Objective](#Objective)
 - [Hardware](#Hardware)
-
+- [Feature Labels](#Feature-Labels)
+- [Feature Maps](#Feature-Maps)
+- [Data Analysis](#Data-Analysis)
+- [Machine Learning Model Results](#Machine-Learning-Model-Results)
+- [Conclusion](#Conclusion)
 
 ## Objective
 
