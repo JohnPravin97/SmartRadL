@@ -28,7 +28,13 @@ Stop              |  Asphalt Ride
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Stop.JPG)  |  ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Ride.JPG)
 
+Cobblestone Ride              |  Asphalt Manhole
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Cobblestone_Ride.JPG)  |  ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Manhole.JPG)
 
+Asphalt Kerb              |  Asphalt Bump
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Kerb.JPG)  |  ![](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Vaihingen_Dataset/Img/Asphalt_Bump.JPG)
 
 - Stop                                                                                                                 
 
