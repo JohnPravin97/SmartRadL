@@ -36,7 +36,7 @@
 
 ## Feature Maps
 
-In this project, we have collected the above-mentioned features from two locations namely Vaihingen and Stuttgart, Germany. To illustrate the data collection from these locations, here we have created a data visualization map [Visualization of maps](https://raw.githubusercontent.com/JohnPravin97/SmartRadL/main/Programs/Visualization of maps/). Also in the below picture, each feature label count is illustrated. 
+In this project, we have collected the above-mentioned features from two locations namely Vaihingen and Stuttgart, Germany. To illustrate the data collection from these locations, here we have created a data visualization map [Visualization of maps](https://github.com/JohnPravin97/SmartRadL/tree/main/Programs/Visualization%20of%20maps). Also in the below picture, each feature label count is illustrated. 
 
 - Vaihingen Campus Map:
 
